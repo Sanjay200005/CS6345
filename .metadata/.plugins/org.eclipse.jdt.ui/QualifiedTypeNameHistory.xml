@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.runsome.utils.GetFiles"/>
+    <fullyQualifiedTypeName name="java.nio.channels.FileLock"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.runsome.utils.RunsomeConstants"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.runsome.utils.ZipFiles"/>
+    <fullyQualifiedTypeName name="com.runsome.operation.ZipStarter"/>
+</qualifiedTypeNameHistroy>
